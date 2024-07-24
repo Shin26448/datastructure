@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일\1-복습">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일\3-재귀">
+      <UniqueIdentifier>{5d4a55b9-96c9-47c4-b9d6-957014cf16d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\4-배열">
+      <UniqueIdentifier>{6835b280-75fe-41e6-85dd-0658b29be8dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\2-분석">
+      <UniqueIdentifier>{7c9aae92-7871-4793-9d11-9d1007cf194c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\5-연결리스트">
+      <UniqueIdentifier>{9f634ca8-7b7b-40de-8cd2-4f8d7693718b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\6-집합">
+      <UniqueIdentifier>{4a105518-e567-4be2-b110-7bbc942279e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\7-스택">
+      <UniqueIdentifier>{965004c3-05ed-4f14-8949-9025153fb43e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\8-스택%282%29">
+      <UniqueIdentifier>{26a7d6e6-4e21-4b9f-939c-5c520f15af33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\9-큐">
+      <UniqueIdentifier>{04036be7-88ff-47ec-91e3-61e57f92f767}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\10-트리">
+      <UniqueIdentifier>{41775b80-632f-4aef-b262-6cceb416ba00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\11-트리2">
+      <UniqueIdentifier>{a4b21915-d809-4e08-afb7-44a501af509c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\12-트리3">
+      <UniqueIdentifier>{f555a8e9-0c2e-429f-a017-de87c63cee7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\13-프로젝트">
+      <UniqueIdentifier>{24df3fbf-fdaf-4a71-8bdd-34750277d10c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\14-기말고사">
+      <UniqueIdentifier>{fc255ca1-de31-4b0a-bc99-f2f93c7ce397}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="복습1.c">
+      <Filter>리소스 파일\1-복습</Filter>
+    </ClCompile>
+    <ClCompile Include="복습2.c">
+      <Filter>리소스 파일\1-복습</Filter>
+    </ClCompile>
+    <ClCompile Include="복습3.c">
+      <Filter>리소스 파일\1-복습</Filter>
+    </ClCompile>
+    <ClCompile Include="배열1.c">
+      <Filter>리소스 파일\4-배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2.c">
+      <Filter>리소스 파일\4-배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열3.c">
+      <Filter>리소스 파일\4-배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열4.c">
+      <Filter>리소스 파일\4-배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열5.c">
+      <Filter>리소스 파일\4-배열</Filter>
+    </ClCompile>
+    <ClCompile Include="연습.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀1.c">
+      <Filter>리소스 파일\3-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀2.c">
+      <Filter>리소스 파일\3-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀3.c">
+      <Filter>리소스 파일\3-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀4.c">
+      <Filter>리소스 파일\3-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀5.c">
+      <Filter>리소스 파일\3-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트1.c">
+      <Filter>리소스 파일\5-연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="배열4.2.c">
+      <Filter>리소스 파일\4-배열</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트1 예시.c">
+      <Filter>리소스 파일\5-연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트2.c">
+      <Filter>리소스 파일\5-연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="집합2.c">
+      <Filter>리소스 파일\6-집합</Filter>
+    </ClCompile>
+    <ClCompile Include="집합1 (2).c">
+      <Filter>리소스 파일\6-집합</Filter>
+    </ClCompile>
+    <ClCompile Include="집합1 (3).c">
+      <Filter>리소스 파일\6-집합</Filter>
+    </ClCompile>
+    <ClCompile Include="집합1 %281%29.c">
+      <Filter>리소스 파일\6-집합</Filter>
+    </ClCompile>
+    <ClCompile Include="스택1.c">
+      <Filter>리소스 파일\7-스택</Filter>
+    </ClCompile>
+    <ClCompile Include="스택(2)-1.c">
+      <Filter>리소스 파일\8-스택%282%29</Filter>
+    </ClCompile>
+    <ClCompile Include="스택(2)-2.c">
+      <Filter>리소스 파일\8-스택%282%29</Filter>
+    </ClCompile>
+    <ClCompile Include="큐1.c">
+      <Filter>리소스 파일\9-큐</Filter>
+    </ClCompile>
+    <ClCompile Include="큐2.c">
+      <Filter>리소스 파일\9-큐</Filter>
+    </ClCompile>
+    <ClCompile Include="트리1.c">
+      <Filter>리소스 파일\10-트리</Filter>
+    </ClCompile>
+    <ClCompile Include="트리1(2).c">
+      <Filter>리소스 파일\10-트리</Filter>
+    </ClCompile>
+    <ClCompile Include="트리2-1.c">
+      <Filter>리소스 파일\11-트리2</Filter>
+    </ClCompile>
+    <ClCompile Include="트리2-2.c">
+      <Filter>리소스 파일\11-트리2</Filter>
+    </ClCompile>
+    <ClCompile Include="트리3-1.c">
+      <Filter>리소스 파일\12-트리3</Filter>
+    </ClCompile>
+    <ClCompile Include="문제2.c">
+      <Filter>리소스 파일\13-프로젝트</Filter>
+    </ClCompile>
+    <ClCompile Include="문제1.c">
+      <Filter>리소스 파일\13-프로젝트</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="2번.c">
+      <Filter>리소스 파일\14-기말고사</Filter>
+    </None>
+  </ItemGroup>
+</Project>
